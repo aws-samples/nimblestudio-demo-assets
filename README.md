@@ -1,12 +1,8 @@
-## My Project
+## nimblestudio-demo-assets
 
-TODO: Fill this README out!
+NimbleStudio demo assets are assets that can be used to test the Amazon NimbleStudio (Studio in the cloud) service.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
+The initial release consists of rigged 3D characters and props that can be posed, animated and rendered in Autodesk Maya 2020 or higher.
 
 ## Security
 
@@ -14,5 +10,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the LICENSE NAME HERE License.
+This library is licensed under the CC-BY-NC-4.0 License.
 
