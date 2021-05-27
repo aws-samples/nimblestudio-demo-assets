@@ -7,6 +7,7 @@ that can be posed, animated and rendered in Autodesk Maya 2020 or higher.
 
 
 Here you`ll find some additional information on how these files can be used and tested
+
 https://docs.aws.amazon.com/nimble-studio/latest/userguide/testing-with-aws-assets.html
 
 ## Security
