@@ -2,7 +2,8 @@
 
 NimbleStudio demo assets are assets that can be used to test the Amazon NimbleStudio (Studio in the cloud) service.
 
-The initial release consists of rigged 3D characters and props that can be posed, animated and rendered in Autodesk Maya 2020 or higher.
+The initial release consists of rigged 3D characters and props from the short film "Spanner",
+that can be posed, animated and rendered in Autodesk Maya 2020 or higher.
 
 ## Security
 
