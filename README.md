@@ -5,9 +5,9 @@ NimbleStudio demo assets are 3D assets that can be used to test the Amazon Nimbl
 The initial release consists of rigged 3D characters and props from the short film "Spanner",
 that can be posed, animated and rendered in Autodesk Maya 2020 or higher.
 
+![](https://github.com/aws-samples/nimblestudio-demo-assets/blob/main/spanner/images/noa.png | width=100)
 
-Here you`ll find some additional information on how these files can be used and tested
-
+Here you will find some additional information on how these files can be used and tested
 https://docs.aws.amazon.com/nimble-studio/latest/userguide/testing-with-aws-assets.html
 
 ## Security
