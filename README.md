@@ -12,6 +12,10 @@ These assets can be posed, animated and rendered in Autodesk Maya 2020 or higher
 
 You will find additional information on how these files can be used and tested here:<br>
 https://docs.aws.amazon.com/nimble-studio/latest/userguide/testing-with-aws-assets.html
+
+You can watch the short film "Spanner" here:<br>
+https://www.youtube.com/watch?v=wGuig6LxheQ
+
 <hr>
 
 # GETTING FUZZY
