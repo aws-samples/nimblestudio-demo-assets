@@ -10,8 +10,7 @@ These assets can be posed, animated and rendered in Autodesk Maya 2020 or higher
 <img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/noa.png" height="300"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/ulysse.png" height="300"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/bridge.jpg" height="200">
 <img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/knife.jpg" height="150"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/wrench.png" height="150"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/hammer.png" height="150"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/spanner/images/handsaw.jpg" height="150">
 
-You will find additional information on how these files can be used and tested here:
-
+You will find additional information on how these files can be used and tested here:<br>
 https://docs.aws.amazon.com/nimble-studio/latest/userguide/testing-with-aws-assets.html
 <hr>
 
@@ -21,8 +20,8 @@ These are meant to be used in Blender (2.92 or higher)
 <br>
 <img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/fuzzypixel.png" height="200"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/flower.png" height="200"> <img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/cactus.png" height="200"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/ukulele.png" height="200"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/virus.png" height="200"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/watermelon.png" height="200"><img src="https://raw.githubusercontent.com/aws-samples/nimblestudio-demo-assets/main/gettingfuzzy/images/narwhal.png" height="200">
 
-
-                                                                                                                                  
+You will find additional information on how these files can be used and tested here:<br>
+https://docs.aws.amazon.com/nimble-studio/latest/userguide/testing-aws-assets-blender-fuzzy.html                                                                                                                                  
 
 
 ## Security
