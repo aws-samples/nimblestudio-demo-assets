@@ -17,7 +17,6 @@ You can watch the short film "Spanner" here:<br>
 https://www.youtube.com/watch?v=wGuig6LxheQ
 
 <hr>
-
 # GETTING FUZZY
 These are a rigged 3D assets from the short film "Getting Fuzzy" which was created by FuzzyPixel - an Amazon Creative team - in 2021.
 These are meant to be used in Blender (2.92 or higher)
@@ -27,9 +26,7 @@ These are meant to be used in Blender (2.92 or higher)
 You will find additional information on how these files can be used and tested here:<br>
 https://docs.aws.amazon.com/nimble-studio/latest/userguide/testing-aws-assets-blender-fuzzy.html                                                                                                                                  
 
-
-
-
+<hr>
 # SHOCKINGLY FUZZY
 These are a rigged 3D assets from the short film "Shockingly Fuzzy" which was created by FuzzyPixel - an Amazon Creative team - in 2021.
 These are meant to be used in Blender (2.92 or higher)
