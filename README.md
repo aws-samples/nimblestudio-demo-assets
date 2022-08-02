@@ -5,7 +5,7 @@ Nimble Studio demo assets are 3D assets that can be used to test the Amazon Nimb
 "Picchu" is the second short film created by FuzzyPixel - an Amazon Creative team.
 This short was directed by FuzzyPixels own Amaru Zeas and made in Blender in 2021/2022.
 It follows 'Mayu' as she has to overcome various obstacles on her way to a maybe unexpected destination.
-These shared assets can be posed, animated and rendered in and were tested with Blender 3.2
+These shared assets can be posed, animated and rendered in and were tested with Blender 3.2<br>
 <img src="https://user-images.githubusercontent.com/81837754/179117065-16febf2f-bfb1-4807-858a-c8ecde0fa211.jpg" height="400">
 <img src="https://user-images.githubusercontent.com/81837754/179117076-2c492915-8ca8-4718-b49c-0755c74d78c8.jpg" height="200"><img src="https://user-images.githubusercontent.com/81837754/179117085-a32236fd-3729-4416-ae48-67437d48cac7.png" height="200">
 
